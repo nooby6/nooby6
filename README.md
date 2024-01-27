@@ -1,6 +1,6 @@
 ![Audrine's Masterhead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<h1 align="center">Hi 👋, I'm Audrine Whrite</h1>
+<h1 align="center">Hi 👋, I'm Audrine Whrite.</h1>
 <h3 align="center">A passionate Fullstack Developer from Nairobi, Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif">
 
