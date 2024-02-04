@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/audrinewhrite" target="blank"><img src="https://img.shields.io/twitter/follow/audrinewhrite?logo=twitter&style=for-the-badge" alt="audrinewhrite" /></a> </p>
 
-- 🔭 I’m currently working on **Big O Algorithms**
+- 🔭 I’m currently working on **Building my first full web application**
 
 - 🌱 I’m currently learning **Algorithms and Data Structures**
 
