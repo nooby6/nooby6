@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Building my first full web application**
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**
+- 🌱 I’m currently learning **C Makefiles**
 
 - 👯 I’m looking to collaborate on **Any available project**
 
 - 📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
-- 💬 Ask me about **Python, C, Git**
+- 💬 Ask me about **Python, C, Git, MySQL**
 
 - 📫 How to reach me **whriteaudrine@gmail.com**
 
