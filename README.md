@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Building my first full web application**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **Any available project**
 
