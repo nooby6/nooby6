@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **System Administration**
 
-- 👯 I’m looking to collaborate on **FullStack Projects**
+- 👯 I’m looking to collaborate on **Web3 Development**
 
 - 📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
