@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **System Administration**
+- 🌱 I’m currently learning **Sys Admin**
 
 - 👯 I’m looking to collaborate on **Web3 Development**
 
