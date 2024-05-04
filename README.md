@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/audrinewhrite" target="blank"><img src="https://img.shields.io/twitter/follow/audrinewhrite?logo=twitter&style=for-the-badge" alt="audrinewhrite" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **RESTful APIs**
 
-- 🌱 I’m currently learning **Sys Admin**
+- 🌱 I’m currently learning **Webstack Debugging**
 
-- 👯 I’m looking to collaborate on **Fullstack Development **
+- 👯 I’m looking to collaborate on **MySQL**
 
 - 📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
