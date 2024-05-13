@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/audrinewhrite" target="blank"><img src="https://img.shields.io/twitter/follow/audrinewhrite?logo=twitter&style=for-the-badge" alt="audrinewhrite" /></a> </p>
 
-- 🔭 I’m currently working on **RESTful APIs**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Webstack Debugging**
+- 🌱 I’m currently learning **SysAdmin**
 
 - 👯 I’m looking to collaborate on **MySQL**
 
