@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **SysAdmin**
 
-- 👯 I’m looking to collaborate on **MySQL**
+- 👯 I’m looking to collaborate on **SysAdmin**
 
 - 📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
