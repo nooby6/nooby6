@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **SysAdmin**
+- 🌱 I’m currently learning **Web Static**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
