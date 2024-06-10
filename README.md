@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/audrinewhrite" target="blank"><img src="https://img.shields.io/twitter/follow/audrinewhrite?logo=twitter&style=for-the-badge" alt="audrinewhrite" /></a> </p>
 
-- 🔭 I’m currently working on **My first Project **
+- 🔭 I’m currently working on **My Portfolio Project **
 
-- 🌱 I’m currently learning **Web Static**
+- BBC🌱 I’m currently learning **Web Static**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
