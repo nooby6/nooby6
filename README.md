@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on ** My Portfolio Project **
 
-- BBC🌱 I’m currently learning **Web Static**
+- 🌱 I’m currently learning **Web Static**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
