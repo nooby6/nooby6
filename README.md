@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Any Project**
+- 👯 I’m looking to collaborate on **Any CI/CD Project**
 
 - 📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
