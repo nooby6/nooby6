@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **CI/CD**
+- 👯 I’m looking to collaborate on **MERN Projects **
 
-- 📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
+-  📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
 - 💬 Ask me about **Python, C, MySQL, Shell, JavaScript, Rust**
 
