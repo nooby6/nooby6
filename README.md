@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **MERN Projects **
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 -  📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
