@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **whriteaudrine@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
