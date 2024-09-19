@@ -16,7 +16,7 @@
 
 -  📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
-- 💬 Ask me about **Python, C, MySQL, Java, Rust**
+- 💬 Ask me about **Python, C, MySQL, Java, Ruby**
 
 - 📫 How to reach me **whriteaudrine@gmail.com**
 
