@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
