@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👯 I’m looking to collaborate on **JS Projects**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 -  📝 I regularly write articles on [https://medium.com/@giftaudrine1](https://medium.com/@giftaudrine1)
 
