@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **CarePulse App**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
