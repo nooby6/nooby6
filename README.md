@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Webhook**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
