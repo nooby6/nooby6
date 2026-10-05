@@ -6,12 +6,12 @@ I care about software that solves real operational problems: systems with clear 
 
 ## Selected work
 
-### West Kenya Sales Hub
+### [West Kenya Sales Hub](https://github.com/nooby6/westkenya_sales-hub)
 A sales and logistics management platform built around real field operations: orders, inventory, delivery tracking, role-based access, reporting, and operational dashboards.
 
 **Stack:** React, TypeScript, Vite, Supabase, PostgreSQL
 
-### LendFlow
+### [LendFlow](https://github.com/nooby6/lendflow)
 A micro-lending platform focused on the loan lifecycle, KYC, mobile-money payments, webhooks, repayment reconciliation, and risk-oriented workflows.
 
 **Focus:** Python, FastAPI, PostgreSQL, authentication, payment integrations, background processing
