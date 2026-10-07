@@ -4,17 +4,31 @@ Backend-focused full-stack software engineer building APIs, data systems, distri
 
 I care about software that solves real operational problems: systems with clear business rules, reliable data flows, authentication, integrations, and maintainable architecture.
 
+## Languages
+
+**Go · Kotlin · Python · Java · TypeScript · SQL**
+
+I use these across backend services, APIs, distributed systems, data-heavy applications, and full-stack products.
+
 ## Selected work
 
 ### [ForgeQueue](https://github.com/nooby6/forgequeue)
-A distributed job and workflow engine built from first principles in Go, focused on durable job state, PostgreSQL-backed queueing, concurrent workers, ownership, execution leases, and failure recovery.
+A distributed job and workflow engine built from first principles in Go. It focuses on durable job state, PostgreSQL-backed queueing, concurrent workers, execution leases, ownership, and failure recovery.
 
-**Stack:** Go, PostgreSQL, pgx, net/http, Docker, GitHub Actions
+**Language:** Go  
+**Stack:** PostgreSQL, pgx, net/http, Docker, GitHub Actions
+
+### [OpsGrid](https://github.com/nooby6/opsgrid)
+An enterprise workforce scheduling backend built with Kotlin and Spring Boot. It models employees, shifts, leave, scheduling conflicts, transactional updates, and database-level consistency.
+
+**Languages:** Kotlin, Java, SQL  
+**Stack:** Spring Boot, Java 21, PostgreSQL, Flyway, Docker, GitHub Actions
 
 ### [West Kenya Sales Hub](https://github.com/nooby6/westkenya_sales-hub)
 A sales and logistics management platform built around real field operations: orders, inventory, delivery tracking, role-based access, reporting, and operational dashboards.
 
-**Stack:** React, TypeScript, Vite, Supabase, PostgreSQL
+**Languages:** TypeScript, SQL  
+**Stack:** React, Vite, Supabase, PostgreSQL
 
 ### SokoSauti
 A commerce and marketing platform for African SMEs, with merchant messaging, automation, payments, and data-driven workflows.
@@ -23,17 +37,15 @@ A commerce and marketing platform for African SMEs, with merchant messaging, aut
 
 ## Engineering focus
 
-- Go, Python / FastAPI
-- PostgreSQL and relational data modelling
-- REST APIs and backend architecture
-- Authentication and authorization
-- Distributed systems and concurrent processing
-- Payment and mobile-money integrations
-- Webhooks and event-driven workflows
-- Background jobs and asynchronous processing
-- Docker and deployment
-- Testing and CI/CD
-- System design
+- **Backend:** Go, Kotlin / Spring Boot, Python / FastAPI, Java
+- **Frontend:** TypeScript, React
+- **Databases:** PostgreSQL, SQL, relational data modelling
+- **APIs:** REST APIs, authentication, authorization, webhooks
+- **Distributed systems:** concurrent processing, queues, workers, leases, failure recovery
+- **Async processing:** background jobs, event-driven workflows
+- **Payments:** mobile-money integrations and payment workflows
+- **Infrastructure:** Docker, CI/CD, deployment
+- **Engineering:** testing, system design, transactional consistency
 
 ## Current direction
 
