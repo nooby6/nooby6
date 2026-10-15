@@ -2,7 +2,7 @@
 
 Backend-focused software engineer building scalable services, APIs, distributed systems, and data-intensive applications.
 
-I work across **Go, Java/Kotlin, Python, TypeScript/Node.js, Rust, C++, and SQL**, with a strong focus on backend architecture, PostgreSQL, concurrency, testing, reliability, and production engineering.
+I work across **Go, Java/Kotlin, Python, TypeScript/Node.js, and SQL**, with a strong focus on backend architecture, PostgreSQL, concurrency, testing, reliability, and production engineering.
 
 ## What I build
 
@@ -13,9 +13,9 @@ I work across **Go, Java/Kotlin, Python, TypeScript/Node.js, Rust, C++, and SQL*
 
 ## Languages
 
-**Go · Java · Kotlin · Python · TypeScript / Node.js · Rust · C++ · SQL**
+**Go · Java · Kotlin · Python · TypeScript / Node.js · SQL**
 
-I use different languages where they make engineering sense, from concurrent Go services and JVM backends to Python APIs, TypeScript applications, and systems-oriented Rust/C++ work.
+I use different languages where they make engineering sense, including concurrent Go services, JVM backends, Python APIs, TypeScript applications, and PostgreSQL-backed systems.
 
 ## Selected work
 
@@ -52,8 +52,6 @@ A commerce and marketing platform for African SMEs involving merchant messaging,
 - Java / Kotlin / Spring Boot
 - Python / FastAPI
 - Node.js / TypeScript
-- Rust
-- C++
 
 **Systems**
 - REST APIs
